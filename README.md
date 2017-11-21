@@ -1,2 +1,2 @@
 # CordovaHal
-Hardware Abstraction Layer for Cordova Plugins management
+Hardware Abstraction Layer for Cordova Plugins management ciao
